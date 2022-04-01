@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\tut4\tut4\bin\Debug\netcoreapp3.1\tut4.exe
+C:\Users\Acer\source\repos\tut4\tut4\bin\Debug\netcoreapp3.1\tut4.deps.json
+C:\Users\Acer\source\repos\tut4\tut4\bin\Debug\netcoreapp3.1\tut4.runtimeconfig.json
+C:\Users\Acer\source\repos\tut4\tut4\bin\Debug\netcoreapp3.1\tut4.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\tut4\tut4\bin\Debug\netcoreapp3.1\tut4.dll
+C:\Users\Acer\source\repos\tut4\tut4\bin\Debug\netcoreapp3.1\tut4.pdb
+C:\Users\Acer\source\repos\tut4\tut4\obj\Debug\netcoreapp3.1\tut4.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\tut4\tut4\obj\Debug\netcoreapp3.1\tut4.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\tut4\tut4\obj\Debug\netcoreapp3.1\tut4.AssemblyInfo.cs
+C:\Users\Acer\source\repos\tut4\tut4\obj\Debug\netcoreapp3.1\tut4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\tut4\tut4\obj\Debug\netcoreapp3.1\tut4.dll
+C:\Users\Acer\source\repos\tut4\tut4\obj\Debug\netcoreapp3.1\tut4.pdb
+C:\Users\Acer\source\repos\tut4\tut4\obj\Debug\netcoreapp3.1\tut4.genruntimeconfig.cache
